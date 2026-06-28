@@ -5,8 +5,19 @@
 ### *Per Aspera Ad Quanta* — through hardship, to the quantum.
 
 [![Website](https://img.shields.io/badge/🌐_Website-kaminer.technion.ac.il-6f42c1?style=for-the-badge)](https://kaminer.technion.ac.il/)
-[![Institution](https://img.shields.io/badge/🏛️_Technion-Israel_Institute_of_Technology-0a66c2?style=for-the-badge)](https://kaminer.technion.ac.il/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdQuanta_Group-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adquanta-group-6a7843244/)
+[![Institution](https://img.shields.io/badge/🏛️_Technion-Israel_Institute_of_Technology-0a66c2?style=for-the-badge)](https://www.technion.ac.il/en/)
 [![Org](https://img.shields.io/badge/💻_GitHub-AdQuanta-181717?style=for-the-badge&logo=github)](https://github.com/AdQuanta)
+
+<p>
+  <a href="https://www.technion.ac.il/en/">
+    <img src="../assets/technion_logo.png" alt="Technion" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/idokaminer/">
+    <img src="../assets/ido_kaminer.jfif" alt="Ido Kaminer" width="64" />
+  </a>
+</p>
 
 </div>
 
@@ -83,7 +94,7 @@ We believe quantum science gets more powerful — and more fun — when it's *op
 
 ### 🔗 Find us
 
-**[Lab Website](https://kaminer.technion.ac.il/)** · **[GitHub Org](https://github.com/AdQuanta)** · **[All Teams](https://github.com/orgs/AdQuanta/people)**
+**[Lab Website](https://kaminer.technion.ac.il/)** · **[LinkedIn](https://www.linkedin.com/in/adquanta-group-6a7843244/)** · **[Technion](https://www.technion.ac.il/en/)** · **[GitHub Org](https://github.com/AdQuanta)** · **[All Teams](https://github.com/orgs/AdQuanta/people)**
 
 *Pull up a repo. Star something. Come build with us.* ⭐
 
