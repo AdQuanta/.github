@@ -1,4 +1,12 @@
+<a href="https://www.technion.ac.il/en/">
+  <img align="right" src="../assets/technion_logo_transparent.png" alt="Technion" width="136" />
+</a>
+
 <div align="center">
+
+<a href="https://github.com/AdQuanta">
+  <img src="../assets/AdQuanta-logo.png" alt="AdQuanta" width="600" />
+</a>
 
 # ⚛️ AdQuanta — Kaminer Lab
 
@@ -8,16 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdQuanta_Group-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adquanta-group-6a7843244/)
 [![Institution](https://img.shields.io/badge/🏛️_Technion-Israel_Institute_of_Technology-0a66c2?style=for-the-badge)](https://www.technion.ac.il/en/)
 [![Org](https://img.shields.io/badge/💻_GitHub-AdQuanta-181717?style=for-the-badge&logo=github)](https://github.com/AdQuanta)
-
-<p>
-  <a href="https://www.technion.ac.il/en/">
-    <img src="../assets/technion_logo.png" alt="Technion" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/idokaminer/">
-    <img src="../assets/ido_kaminer.jfif" alt="Ido Kaminer" width="64" />
-  </a>
-</p>
 
 </div>
 
@@ -90,11 +88,23 @@ Pushing X-ray science into the quantum regime — extreme light meets extreme ma
 
 We believe quantum science gets more powerful — and more fun — when it's *open, shared, and built together*. Every repo here is a small piece of that pursuit: a tool, an experiment, a proof-of-concept on the road from the merely possible to the truly quantum.
 
+---
+
+## 🧭 Kaminer Lab
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/idokaminer/">
+    <img src="../assets/ido_kaminer.jfif" alt="Ido Kaminer" width="96" />
+  </a>
+</p>
+
+AdQuanta grows out of the **Kaminer Lab** at the Technion, led by **[Prof. Ido Kaminer](https://www.linkedin.com/in/idokaminer/)**. The group brings together quantum optics, electron microscopy, X-ray science, theory, experiments, and code.
+
 <div align="center">
 
 ### 🔗 Find us
 
-**[Lab Website](https://kaminer.technion.ac.il/)** · **[LinkedIn](https://www.linkedin.com/in/adquanta-group-6a7843244/)** · **[Technion](https://www.technion.ac.il/en/)** · **[GitHub Org](https://github.com/AdQuanta)** · **[All Teams](https://github.com/orgs/AdQuanta/people)**
+**[Lab Website](https://kaminer.technion.ac.il/)** · **[LinkedIn](https://www.linkedin.com/in/adquanta-group-6a7843244/)** · **[Technion](https://www.technion.ac.il/en/)** · **[GitHub Org](https://github.com/AdQuanta)** · **[All Teams](https://github.com/orgs/AdQuanta/teams)**
 
 *Pull up a repo. Star something. Come build with us.* ⭐
 
