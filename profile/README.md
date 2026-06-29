@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ Who we are
+## ✨ Who are we?
 
 We're a research-accelerator group at the **Technion**, chasing the strange and beautiful corners of **quantum science** — from free electrons dancing with light, to photons squeezed past the limits of classical intuition, to X-rays probing matter at scales most tools can't touch.
 
@@ -84,7 +84,7 @@ Pushing X-ray science into the quantum regime — extreme light meets extreme ma
 
 ---
 
-## 🌌 Why we do this
+## 🌌 Why do we do this?
 
 We believe quantum science gets more powerful — and more fun — when it's *open, shared, and built together*. Every repo here is a small piece of that pursuit: a tool, an experiment, a proof-of-concept on the road from the merely possible to the truly quantum.
 
