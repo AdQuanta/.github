@@ -58,6 +58,8 @@ Recovering information hidden in the phase of light — seeing the invisible str
 ### 🔮 [Quantum Information](https://github.com/orgs/AdQuanta/teams/quantum-information)
 From foundational quantum theory to the technologies it makes possible — research spanning the *entire* spectrum from fundamental to applied.
 
+&nbsp;&nbsp;↳ **Quantum Networks** — connecting quantum systems to share information in entirely new ways.
+
 </td>
 <td width="50%" valign="top">
 
@@ -65,6 +67,15 @@ From foundational quantum theory to the technologies it makes possible — resea
 Pushing X-ray science into the quantum regime — extreme light meets extreme matter.
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 [Quantum Gravity](https://github.com/orgs/AdQuanta/teams/quantum-gravity)
+Exploring quantum gravity and its ultraviolet completion.
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
